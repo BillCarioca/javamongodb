@@ -1,0 +1,7 @@
+#mongodb
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/data-bill
+      username:
+      passwoword:
